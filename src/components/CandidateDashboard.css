@@ -1,0 +1,36 @@
+/* CandidateDashboard.css */
+.candidate-dashboard {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .candidate-dashboard h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .candidate-dashboard .profile {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .candidate-dashboard .profile h2 {
+    font-size: 20px;
+    color: #555;
+  }
+  
+  .candidate-dashboard .profile p {
+    margin: 8px 0;
+  }
+  
+  .candidate-dashboard .job-application {
+    margin-top: 20px;
+  }
+  
+  .candidate-dashboard .job-application h3 {
+    font-size: 18px;
+    color: #444;
+  }
+  

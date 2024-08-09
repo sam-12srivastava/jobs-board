@@ -6,7 +6,7 @@ import JobListings from './components/JobListings';
 import JobDetail from './components/JobDetail';
 import CandidateDashboard from './components/CandidateDashboard';
 import EmployerDashboard from './components/EmployerDashboard';
-import ApplicationForm from './components/ApplicationForm';
+import ApplicationForm from './components/ApplicationForm.js';
 import './App.css';
 
 const App = () => {

@@ -1,0 +1,33 @@
+/* EmployerDashboard.css */
+.employer-dashboard {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .employer-dashboard h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .employer-dashboard .job-postings {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .employer-dashboard .job-postings h2 {
+    font-size: 20px;
+    color: #555;
+  }
+  
+  .employer-dashboard .job-postings .job {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .employer-dashboard .job-postings .job:last-child {
+    border-bottom: none;
+  }
+  
